@@ -53,7 +53,7 @@ library(DT)             # Interactive Tables
 # Increase upload limit to 200MB
 options(shiny.maxRequestSize = 200 * 1024^2)
 ```
-## Phase 3: implementation of the data importantion engine
+## Phase 3: implementation of the data importation engine
 ### --- PART A: UI ---
 
 ```r
