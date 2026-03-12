@@ -1,4 +1,4 @@
-# 🏥 Training: Building a Clinical Trial Dashboard (DataSentinel)
+# 🏥 Building a Clinical Trial Dashboard (DataSentinel)
 
 Welcome to this step-by-step training. We are going to build **DataSentinel**, a professional dashboard to audit clinical data. We will build everything piece by piece, from Scratch to a fully functional tool for auditing clinical datasets.
 
